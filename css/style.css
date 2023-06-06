@@ -3,7 +3,7 @@ body{
     font-family: Arial;
     display: flex;
     justify-content: center;
-    color: red;
+    color: rgb(0, 191, 255);
 }
 .container{
     max-width: 70%;
@@ -11,13 +11,13 @@ body{
     border-radius: 20px;
 }
 #cabecera{
-    background-color: burlywood;
+    background-color: rgb(183, 222, 135);
     padding: 5px;
     border-radius: 20px 20px 0 0;
     margin-bottom: 2.5rem;
 }
 #cabecera h1{
     font-size: 3rem;
-    color: rgb(231, 11, 55);
+    color: rgb(81, 11, 231);
     text-shadow: 1px 2px 5px blue;
 }
