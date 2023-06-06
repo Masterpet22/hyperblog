@@ -9,6 +9,7 @@ body{
     max-width: 70%;
     border: 1px solid #333;
     border-radius: 20px;
+    overflow: hidden;
 }
 #cabecera{
     background-color: burlywood;
@@ -20,4 +21,12 @@ body{
     font-size: 3rem;
     color: rgb(231, 11, 55);
     text-shadow: 1px 2px 5px blue;
+}
+
+.footer{
+    width: 100%;
+    background-color: rgb(12, 170, 232);
+    color: aliceblue;
+    padding: 10px;
+    box-shadow: 1px -10px 9px rgb(75, 75, 241);
 }
